@@ -13,7 +13,8 @@ Who maintains and contributes to the project?
 •	Feel free to add to this and add your own creativity but give me credit. I won't add more unless I get inspired.
 
 
-Cheers mate, ~ Tracy
+Cheers mate,
+~ Tracy
 
 
 
