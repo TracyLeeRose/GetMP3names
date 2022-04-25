@@ -1,8 +1,11 @@
 This program reads a folder full of MP3 music and makes a list of your MP3 files in a more clean manner.  It then can alphabetize your entire list.  This gets interesting with songs like the one from TOOL called... (-)ions.  The only restriction is that the music has to be in this form "Jingle Bells - Bing Crosby.mp3" where the song comes first and the artist comes second with a dash in between.  The program goes down into all subfolders from the root of the path you give. Lastly it numbers the lines of music so you can quickly get a count of the songs in that directory.
 
 9199  Hello Again - Hoobastank.mp3
+
 9200  Hello Again - Lost Prophets.mp3
+
 9201  Hello Again - The Cars.mp3
+
 9202  Hello Dolly - Louis Armstrong.mp3
 
 What the project does ->> This project was just an experiment to write something simple but had to have a form or graphical user interface (GUI) using C++ only.  I mean most colleges teach for years but you stay using command line unless you go to another language.
