@@ -14,6 +14,7 @@ This gets interesting with songs like the one from TOOL called... (-)ions.  The 
 Why is the project useful:  The program is useful because it can collect all your song names in a text file you could export and do almost anything with. For instance, I have a thumb-drive with 4000 songs in my car.  This helps print a clean list I can review when thinking about a song I might want to play aside from shuffle.  This project was just an experiment to write something simple but had to have a form or graphical user interface (GUI) using C++ only.  I mean most colleges teach for years but you stay using command line unless you go to another language.
 
 +++++++++++++++++++++
+
 How users can get started with the project:
 
 There is no install and you can simply run the executable.  To start this program go into GMP3project\GMP3\Debug and just run the executable like any other Windows program, because it’s already built/compiled.  Basic Non-programming operations. Double-click on the executable called GetMP3.EXE. The user is presented with four rectangle buttons and one long rectangle for path input. There is some text at the very bottom of the small window showing program status. To operate this program, you first type in or paste a PATH in the long white input area (such as C:\Users\MyPC\Desktop\music) where the music files are located.  
@@ -28,6 +29,7 @@ As a programmer you can also use the *.sln to open the project in Visual Studios
 In case you don’t have MP3s, there is a premade list created called MusicData.txt for testing.  The program comes with a foreshortened song list called MusicData.txt and a huge list called MusicDataHugeList.txt.  The huge list can be renamed MusicData.txt to push the program to its limits processing wise.  With these lists you would bypass the first GET MP3 LIST button and work with the other three buttons.
 
 ++++++++++++
+
 Who maintains and contributes to the project?  No regular updates to this are happening as it was just a weekend project. Feel free to add to this and add your own creativity but give me credit. I won't add more unless I get inspired.  Future additions might be to calculate percent of similar songs to weed out duplicates.  Maybe an HTML page with the list and when you click a radio box it sends that song name to a 'favorites' list?
 
 ++++++++++++
