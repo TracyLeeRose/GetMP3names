@@ -46,7 +46,7 @@ The idea is that I made a program that would do this similar command-line proced
 
 Bugs
 
-I've noticed in the SORT area of the code is zooms by the status output text for some reason.  I haven't trouble shot this enough to fix it.  Also in Version2 I coded QUICKSORT in there for trials.  Quicksort is slower than Bubblesort which means it's probably not partitioning correctly or something similar.  Yet it all functions fine at this writing. Let me know if you see optimizations for the Quicksort.
+I've noticed in the SORT area of the code is zooms by some status output text for some reason. Like saying "sorting..."  I haven't troubleshot this enough to fix it.  Also in Version2 I coded QUICKSORT in there for trials instead of Bubblesort.  Quicksort is slower than Bubblesort which means it's probably not partitioning correctly or something similar.  Yet it all functions fine at this writing. Let me know if you see optimizations for the Quicksort.
 
 ++++++++++++
 
