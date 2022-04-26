@@ -43,7 +43,8 @@ I wrote this fun code to organize the names of all the MP3 music files I have.  
 The idea is that I made a program that would do this similar command-line procedure but with a graphic user interface in Windows.  I coded this program to take a text file like the one created in command line and clean it up relatively fast.  The program attempts to take out text where no music is specified with *.mp3 extension on it.  It also takes out blank lines and a few other unneeded file lines.
 
 ++++++++++++
-Bug
+Bugs
+
 
 I've noticed in the SORT area of the code is zooms by the status output text for some reason.  I haven't trouble shot this enough to fix it.  Also in Version2 I coded QUICKSORT in there for trials.  Quicksort is slower than Bubblesort which means it's probably not partitioning correctly or something similar.  Yet it all functions fine at this writing. Let me know if you see optimizations for the Quicksort.
 
