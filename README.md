@@ -26,5 +26,3 @@ The idea is that I made a program that would do this similar command-line proced
 .
 Programming Code SETUP: To start this program the hard way if you have the C++ code, you can extract into a folder. Next you could go into GMP3project\GMP3\Debug and just run the executable like any other Windows program, because it’s already built.  You can also use the *.sln to open the project in Visual Studios and run as well as alter the code.  
 
-
-
