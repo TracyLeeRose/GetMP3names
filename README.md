@@ -40,4 +40,3 @@ Optionally you click the button below that only if you wish to see what was writ
 
 Lastly use the VIEW ALPHA LIST button, so you can view the final product list. Notice that numbers have been added to keep track of how many MP3s there are on the list.  When complete with all four buttons one will have a MusicData.txt showing the initial list before sorting.  There will also be an Alphabetized.txt after sorting
 
-
