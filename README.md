@@ -9,6 +9,7 @@ This program reads a folder full of MP3 music and makes a list of your MP3 files
 
 9202  Hello Dolly - Louis Armstrong.mp3
 .
+.
 Why is the project useful ->>
 The program is useful because it can collect all your song names in a text file you could export and do almost anything with. For instance, I have a thumb-drive with 4000 songs in my car.  This helps print a clean list I can review when thinking about a song I might want to play aside from shuffle.  This project was just an experiment to write something simple but had to have a form or graphical user interface (GUI) using C++ only.  I mean most colleges teach for years but you stay using command line unless you go to another language.
 .
